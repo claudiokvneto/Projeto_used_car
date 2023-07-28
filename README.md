@@ -6,6 +6,6 @@ Usando técnicas de aprendizado de máquina, foi criado ummodelo capaz de fazer 
 
 Linguagem: Python 3.10
 
-Bibliotecas utilizadas: Numpy, Pandas, Matplotlib, Seaborn e Plotly.
+Bibliotecas utilizadas: Numpy, Pandas, Matplotlib, Seaborn, Plotly e Sklearn.
 
 Este foi o projeto, espero que goste! 😀
